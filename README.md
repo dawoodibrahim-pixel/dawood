@@ -23,7 +23,7 @@
     <section id="hero">
         <div class="hero-content">
             <h1>Hi, I'm Dawood Ibrahim</h1>
-            <p>Social Media Manager | Graphic Designer | E-Commerce Executive</p>
+            <p>Social Media Manager | Graphic Designer</p>
             <a href="#contact" class="btn">Get In Touch</a>
         </div>
     </section>
